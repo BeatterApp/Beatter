@@ -1,6 +1,10 @@
 # Beatter
 Beatter - Compartir fotos
 
+https://play.google.com/store/apps/details?id=com.wishco.beatter.android
+https://itunes.apple.com/es/app/beatter-share-photos/id1057614527
+http://es.beatter.com/es/
+
 No pierdas tiempo enviando fotos. Prueba la app para compartir fotos en directo!
 
 No pidas ni pierdas más fotos! Con Beatter  y su modo compartir en directo las fotos se comparten solas haciendo fotos con la app de la cámara del teléfono. No tienes que acudir a Beatter.
