@@ -2,9 +2,9 @@
 Beatter - Compartir fotos
 
 
-[![iOS]<https://github.com/BeatterApp/Beatter/blob/master/BeatterWeb/statics/apple_store_badge.png?raw=true>](https://itunes.apple.com/es/app/beatter-share-photos/id1057614527)
+[![iOS](https://github.com/BeatterApp/Beatter/blob/master/BeatterWeb/statics/apple_store_badge.png?raw=true)](https://itunes.apple.com/es/app/beatter-share-photos/id1057614527)
 
-[![Android]<https://github.com/BeatterApp/Beatter/blob/master/BeatterWeb/statics/play_store_badge.png?raw=true>](https://play.google.com/store/apps/details?id=com.wishco.beatter.android)
+[![Android](https://github.com/BeatterApp/Beatter/blob/master/BeatterWeb/statics/play_store_badge.png?raw=true)](https://play.google.com/store/apps/details?id=com.wishco.beatter.android)
 
 https://www.beatter.com/
 
