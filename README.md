@@ -6,7 +6,7 @@
 Puedes encontrar Beatter en:
 
 | [![iOS](https://github.com/BeatterApp/Beatter/blob/master/BeatterWeb/statics/apple_store_badge.png?raw=true)](https://itunes.apple.com/es/app/beatter-share-photos/id1057614527) | [![Android](https://github.com/BeatterApp/Beatter/blob/master/BeatterWeb/statics/play_store_badge.png?raw=true)](https://play.google.com/store/apps/details?id=com.wishco.beatter.android) | [![Web](https://github.com/BeatterApp/Beatter/blob/master/BeatterWeb/statics/beatter_logo.png?raw=true)](https://www.beatter.com)
-
+------------ | ------------- | -------------
 
 No pierdas tiempo enviando fotos. Prueba la app para compartir fotos en directo!
 
