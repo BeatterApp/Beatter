@@ -1,6 +1,4 @@
 
-# Beatter
-
 # Beatter - Compartir fotos
 
 Puedes encontrar Beatter en:
